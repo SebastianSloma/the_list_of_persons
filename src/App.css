@@ -26,5 +26,5 @@
   color: teal;
 }
 .person:hover {
-  box-shadow: 2px 5px 10px rgba(0, 0, 0, 0.3);
+  box-shadow: 2px 5px 10px rgba(255, 252, 252, 0.3);
 }
